@@ -1,0 +1,39 @@
+/*landing page */
+body {
+font-family: 'Itim';
+background-color: #0F0E17
+}
+.nav-bar {
+background-color: #D9D9D9;
+}
+.content {
+background-color: #0F0E17;
+}
+.title {
+background-color: #FFFFFE;
+}
+.about {
+background-color: #A7A9BE;
+}
+.locator {
+background-color: #F25F4C;
+}
+.ads {
+background-color: #FF8906;
+}
+.footer {
+background-color: #D9D9D9;
+}
+.copyRight {
+background-color: #FFCBCB;
+}
+/*informative page */
+.summary {
+background-color: #A7A9BE;
+}
+.statistic {
+background-color: #F25F4C;
+}
+.reg-form {
+background-color: #E53170;  
+}
